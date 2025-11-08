@@ -22,7 +22,7 @@ export default function Intro() {
 				</div>
 
 				{/* Resume Download */}
-				<a href="/resumelure.pdf" download className="mt-6 w-auto flex items-center justify-center py-2 border border-gray-700 rounded text-gray-200 hover:bg-gray-800 hover:text-white transition">
+				<a href="/smallcase.pdf" download className="mt-6 w-auto flex items-center justify-center py-2 border border-gray-700 rounded text-gray-200 hover:bg-gray-800 hover:text-white transition">
 					<span className="mr-2 text-[20px]">Resume</span>
 					<FaDownload />
 				</a>
